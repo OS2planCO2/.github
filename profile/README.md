@@ -14,12 +14,32 @@ Værktøjet gør det muligt at undersøge alternative planscenarier, visualisere
 - **Generere rapporter**, der kan indgå i arbejdet med lokalplaner.
 - **Understøtte kommunernes klimamål** med konkrete beregninger tidligt i planprocessen.
 
-## Projektets repositories
 
-- **[Kildekode – planCO2](https://github.com/OS2planCO2/planCO2)**  
-  QGIS-plugin, installation og teknisk dokumentation.
-- **Backlog og projektstyring**  
-  Fejlrapportering, udviklingsønsker, prioriteringer og opfølgning på projektets udvikling. Findes blandt organisationens repositories.
+## Deltag i udviklingen
+
+OS2planCO2 udvikles og vedligeholdes i fællesskab.
+Du kan indmelde fejl, foreslå forbedringer og følge
+udviklingen direkte på GitHub.
+
+### Opret en sag
+
+- 🐛 **[Indberet en fejl](https://github.com/OS2planCO2/BACKLOG/issues/new/choose)**  
+  Har du fundet en fejl i PlanCO2?
+
+- 💡 **[Foreslå en forbedring](https://github.com/OS2planCO2/BACKLOG/issues/new/choose)**  
+  Har du et forslag til ny funktionalitet?
+
+### Følg projektet
+
+- 📋 **[Issue-tracker](https://github.com/OS2planCO2/BACKLOG/issues)**  
+  Se fejlrapporter, udviklingsønsker og opgaver.
+
+- 📊 **Projektboard**  
+  Følg opgavernes status fra ændringsønske til
+  færdig løsning.
+
+- 💻 **[Kildekode](https://github.com/OS2planCO2/planCO2)**  
+  Find kildekoden til PlanCO2's QGIS-plugin.
 
 ## Et fællesoffentligt open source-projekt
 
