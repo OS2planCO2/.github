@@ -34,9 +34,8 @@ udviklingen direkte på GitHub.
 - 📋 **[Issue-tracker](https://github.com/OS2planCO2/BACKLOG/issues)**  
   Se fejlrapporter, udviklingsønsker og opgaver.
 
-- 📊 **Projektboard**  
-  Følg opgavernes status fra ændringsønske til
-  færdig løsning.
+- 📊 **[Projektboard](https://github.com/orgs/OS2planCO2/projects/1)**  
+  Følg opgavernes status fra ændringsønske til færdig løsning.
 
 - 💻 **[Kildekode](https://github.com/OS2planCO2/planCO2)**  
   Find kildekoden til PlanCO2's QGIS-plugin.
