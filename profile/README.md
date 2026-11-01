@@ -23,10 +23,10 @@ udviklingen direkte på GitHub.
 
 ### Opret en sag
 
-- 🐛 **[Indberet en fejl](https://github.com/OS2planCO2/BACKLOG/issues/new/choose)**  
+- 🐛 **[Indberet en fejl]([https://github.com/OS2planCO2/BACKLOG/issues/new/choose](https://github.com/OS2planCO2/backlog/issues/new?template=bug_report.yml))**  
   Har du fundet en fejl i PlanCO2?
 
-- 💡 **[Foreslå en forbedring](https://github.com/OS2planCO2/BACKLOG/issues/new/choose)**  
+- 💡 **[Foreslå en forbedring]([https://github.com/OS2planCO2/BACKLOG/issues/new/choose](https://github.com/OS2planCO2/backlog/issues/new?template=feature_request.yml))**  
   Har du et forslag til ny funktionalitet?
 
 ### Følg projektet
